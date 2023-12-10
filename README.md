@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mumtazlayla
+- 👋 Hi, I am Adrienne
 - 👀 I’m interested in data, chocolates, and knitting.
 - 🌱 I’m currently learning R.
 
